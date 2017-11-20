@@ -1,0 +1,2 @@
+<p class="paras">Welcome to Vertex Online Book Store. We have all types of computer books 
+  in our book store, Secure pay system is running on our store so don't hesitate to payment by credit card.</p>

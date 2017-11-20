@@ -1,0 +1,1 @@
+<img src="images/StoreHeader.jpg" width="778">

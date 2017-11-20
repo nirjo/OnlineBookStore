@@ -1,0 +1,8 @@
+<Script Language="VBScript" Runat="Server">
+
+Sub Session_OnStart
+Session("TotalItems") = 0
+Set Session("MyItems") = Server.CreateObject("Scripting.Dictionary")
+End Sub
+
+</Script>

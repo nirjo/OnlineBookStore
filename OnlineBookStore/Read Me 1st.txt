@@ -1,0 +1,77 @@
+********************* Vertex Online Book Store *********************
+*								   *
+*								   *
+* "Vertex Online Book Store" is created by "Zeeshan Mahmood".      *
+* You can modify this project and use on your website. It is free  *
+* for all. It's a complete e-Commerce application.		   *
+********************************************************************
+
+Requirements:-
+
+1) PWS(Personal Web Server) or IIS (Internet Information Server)
+   is installed on your system.
+
+2) Java Script is enabled in your browser.
+
+3) If you want to view the database file then Microsoft Access 2000
+   or later version is installed in your system.
+
+
+--------------------------------------------------------------------
+
+
+Setup Instructions:-
+
+1) Unzip the file "OnlineBookStore.zip" .
+
+2) Mark the directory as virtual.
+
+3) Open your web browser(Internet Explorer/Netscape) and type the
+   following address: http://localhost/virtualdirectoryname
+
+4) Enjoy using this E-Commerce project :)
+
+
+---------------------------------------------------------------------
+
+
+A Few Words About Me:-
+
+My name is Zeeshan Mahmood. I am a Software/Web Developer, currently
+working in Vertex - Creative Marketing Company (http://www.vertexpk.com)
+and running ASP/ASP.NET portal (http://www15.brinkster.com/visualaspkit).
+
+Here is my expertise:
+
+Better knowledge of e-Commerce and e-Business
+Architecturing the web
+OOP (Object Oriented Programming)
+HTML (Hyper Text Markup Language)
+DHTML (Dynamic Hyper Text Markup Language)
+CSS (Cascading Style Sheet)
+Java Script (Both Client/Server Side)
+VB Script (Both Client/Server Side)
+ASP (Active Server Pages)
+ASP.NET (Active Server Pages .NET with C# and VB.NET)
+ASP.NET For Mobile Web Applications
+ASP.NET Server Controls Development
+C# (C-Sharp)
+COM (Component Object Model)
+XML (Extensible Markup Language)
+XML Web Services
+XSL (Extensible Style Sheet Language)
+Microsoft SQL Server
+Microsoft Access
+Microsoft Front Page
+Macromedia Dreamweaver
+Macromedia Flash 5 (With full action script technology)
+Adobe Image Ready (for animated images)
+
+
+Email Address: zeeshan_kyo@hotmail.com
+
+Website: http://www.zeeshan123.8m.com
+
+Mirror: http://www24.brinkster.com/zeeshan123/main.html
+
+ASP/ASP.NET Portal: http://www15.brinkster.com/visualaspkit

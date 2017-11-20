@@ -1,0 +1,30 @@
+.SimpleText
+	{
+	font-family: verdana, arial;
+	font-size: 9pt
+	}
+
+.NormalLink
+	{
+	color: steelblue;
+	font-family: verdana, arial;
+	font-size: 9pt;
+	font-weight: bold;
+	text-decoration: none
+	}
+
+a:hover.NormalLink
+	{
+	color: blue;
+	font-family: verdana, arial;
+	font-size: 9pt;
+	font-weight: bold;
+	text-decoration: none
+	}
+
+.paras
+	{
+	text-align: justify;
+	font-family: verdana, arial;
+	font-size: 10pt
+	}
